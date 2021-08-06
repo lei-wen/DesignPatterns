@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:2.StrategyPattern/StrategyPattern/StrategyPattern.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:1.SimpleFactoryPattern/SimpleFactory/SimpleFactory.xcodeproj">
    </FileRef>
 </Workspace>
