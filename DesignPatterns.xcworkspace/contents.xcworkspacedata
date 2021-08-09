@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:7.FacadePattern/FacadePattern/FacadePattern.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:6.TemplateMethodPattern/TemplateMethod/TemplateMethod.xcodeproj">
    </FileRef>
    <FileRef
